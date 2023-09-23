@@ -1,0 +1,14 @@
+C:\Users\sanghami.d\source\repos\New\New\bin\Debug\net6.0\New.exe
+C:\Users\sanghami.d\source\repos\New\New\bin\Debug\net6.0\New.deps.json
+C:\Users\sanghami.d\source\repos\New\New\bin\Debug\net6.0\New.runtimeconfig.json
+C:\Users\sanghami.d\source\repos\New\New\bin\Debug\net6.0\New.dll
+C:\Users\sanghami.d\source\repos\New\New\bin\Debug\net6.0\New.pdb
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\New.AssemblyInfoInputs.cache
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\New.AssemblyInfo.cs
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\New.csproj.CoreCompileInputs.cache
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\New.dll
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\refint\New.dll
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\New.pdb
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\New.genruntimeconfig.cache
+C:\Users\sanghami.d\source\repos\New\New\obj\Debug\net6.0\ref\New.dll

@@ -1,0 +1,14 @@
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfoInputs.cache
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfo.cs
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CoreCompileInputs.cache
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.deps.json
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.dll
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.pdb
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.dll
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\refint\ProjectK.dll
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.pdb
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ref\ProjectK.dll
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.exe
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.runtimeconfig.json
+C:\Users\sanghami.d\source\repos\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.genruntimeconfig.cache

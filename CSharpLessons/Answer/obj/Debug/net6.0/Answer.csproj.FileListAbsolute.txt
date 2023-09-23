@@ -1,0 +1,14 @@
+C:\Users\sanghami.d\source\repos\Answer\Answer\bin\Debug\net6.0\Answer.exe
+C:\Users\sanghami.d\source\repos\Answer\Answer\bin\Debug\net6.0\Answer.deps.json
+C:\Users\sanghami.d\source\repos\Answer\Answer\bin\Debug\net6.0\Answer.runtimeconfig.json
+C:\Users\sanghami.d\source\repos\Answer\Answer\bin\Debug\net6.0\Answer.dll
+C:\Users\sanghami.d\source\repos\Answer\Answer\bin\Debug\net6.0\Answer.pdb
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\Answer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\Answer.AssemblyInfoInputs.cache
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\Answer.AssemblyInfo.cs
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\Answer.csproj.CoreCompileInputs.cache
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\Answer.dll
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\refint\Answer.dll
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\Answer.pdb
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\Answer.genruntimeconfig.cache
+C:\Users\sanghami.d\source\repos\Answer\Answer\obj\Debug\net6.0\ref\Answer.dll
